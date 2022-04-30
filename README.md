@@ -1,0 +1,1 @@
+Este é um exercício básico, utilizando HTML e CSS, fiz uma pequena parte do site da B7WEB.
